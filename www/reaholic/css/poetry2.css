@@ -1,0 +1,61 @@
+.poems
+{	
+	position:absolute;
+	top:120px;
+	left:10%;
+	width:80%;
+	height:400px;
+}
+
+.poemscontainer
+{
+	width:95%;
+	height:380px;
+	margin-left:2.5%;
+	margin-top:8px;
+	margin-bottom:8px;
+	
+	
+}
+
+
+#poem2, #poem3, #poem4, #poem5, #poem6, #poem7, #poem8, #poem9, #poem10
+{
+	display:none;
+} 
+
+
+
+
+
+
+
+#poemselector
+{	position:absolute;
+	top:520px;
+	left:300px;
+	width:200px;
+	height:20px;
+	margin-top:20px;
+	margin-left:20%;
+	font-size:18px;
+}
+
+
+.selector
+{
+	width:20px;
+	height:20px;
+	display:inline;
+	float:left;
+}
+
+#s1, #s3, #s5, #s7, #s9
+{
+	background-color:green;
+}
+
+#s2, #s4, #s6, #s8, #s10
+{
+	background-color:yellow;
+}

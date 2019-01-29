@@ -1,0 +1,36 @@
+Project Proposal:
+
+========================================
+Aim:
+======================================== 
+To develope an application which can extract information about upcoming events from text data received in mails.
+
+========================================
+Problem Overview: 
+========================================
+Currently everybody at campus uses webmail service daily to check if he/she has something important coming up in
+upcoming days. For this we have to login to webmail and scan a set of recent mails we received to get the complete 
+detail of events which are going to take place in coming days. This is a very tedious task to get up everyday and 
+the first thing you need to do is check all the mails to get the schedule of that particular day. Instead you can do
+what is that you can just login to a simple app and get all your upcoming schedule in just one place.
+
+========================================	
+Details:
+========================================
+Given the text data from recently received mails, the purpose of this app is to analyse each and every line of 
+text to get the desired information which is required by thr user of the application. The desired information will 
+include the event topic, the place where the event is going to take place and the date on which you are required to get 
+ready to attend the event. Using our app people will be able to get information about every event organised by any of the
+clibs of our institute, talks organised for students, schedule for extra classes, exams, quizes, assignment deadlines.
+	
+========================================
+Programming/Skills Required:
+========================================
+1. A good grasp on python programming language.
+2. A good understanding of Natural Language Processing.
+
+========================================
+Extra Features which can be implemented:
+========================================
+1. These events can be pinned in your clander.
+2. App can be extended to use for other mails received on other mail services.

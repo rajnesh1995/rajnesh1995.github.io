@@ -1,0 +1,31 @@
+Link to Created page: http://wiki.iitk.ac.in/mediawiki/index.php/Preregistration:Pingala
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+A platform to save you from torturs of [[OARS]].
+
+==Pingala==
+To help students who were facing problems (all were) during preregistration time, institute has come up with a new registration
+ portal Pingala. Pingala is currently being operated by Office Automation Department. Pingala has a very simple and understandable
+ user-interface, so students now can easily carry on with steps to complete their preregistration process. Help desk for students 
+facing problems in accessing Pingala and in requesting courses is currently being setup in 
+'''Office Automation Department''' in '''Western Labs''' Room No '''WL-225'''.   
+
+
+
+==Problems with OARS==
+* Can only run on Internet Explorer.
+* Has issues with login.
+* Server went down during every preregistration time.
+* Many times you need to clear your cookies to login with different Account.
+
+
+==Link to Pingala==
+[https://pingala.iitk.ac.in: Pingala IIT Kanpur]
+
+==Contact Details==
+'''Email:''' pingala@iitk.ac.in <br>
+'''PH No.:''' +91-0512-259-6803/6805<br>
+'''New Office Automation WL-225,IIT Kanpur'''
+
+----------------------------------------------------------------------------------------------------------------------------------------

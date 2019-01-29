@@ -1,0 +1,458 @@
+body
+	{
+	 padding:0px;
+	 margin:0px;
+	}
+div
+	{
+	 padding:0px;
+	 margin:0px;
+	}
+	
+a
+	{
+	 text-decoration:none;
+	 color:black;
+	}	
+	
+img
+	{
+	 padding:0px;
+	 margin:0px;
+	}
+
+#header
+	{
+	 position:fixed;
+	 top:0px;
+	 left:0px;
+	 z-index:2;
+	 width:100%;
+	 height:60px;
+	 background-color:white;
+	 
+	 overflow:hidden;
+	}
+
+#navigationBar
+	{opacity:0.6;
+	 width:100%;
+	 height:40px;
+	 position:fixed;
+	 top:10px;
+	 left:0px;
+	 overflow:hidden;
+	}
+
+#navigationName
+	{
+	 width:230px;
+	 float:left;
+	 height:40px;
+	 margin-left:40px;
+	 display:inline;
+	 font-size:35px;
+	 font-style:bold;
+	 
+	 
+	}
+
+#navigationMenu
+	{
+	 width:700px;
+	 height:40px;
+	 float:right;
+	 display:inline;
+	 
+	}
+
+#navigationMenu1
+	{padding-right:20px;
+	 padding-left:20px;
+	 
+	 height:40px;
+	 font-size:25px;
+	 line-height:40px;
+	 display:inline;
+	}
+	
+#navigationMenu2
+	{padding-right:20px;
+	 padding-left:20px;
+	 
+	 height:40px;
+	 font-size:25px;
+	 line-height:40px;
+	 display:inline;
+	}
+
+#navigationMenu3
+	{
+	 padding-right:20px;
+	 padding-left:20px;
+	 height:40px;
+	 font-size:25px;
+	 line-height:40px;
+	 display:inline;
+	}
+
+#navigationMenu4
+	{
+	 padding-right:20px;
+	 padding-left:20px;
+	 height:40px;
+	 font-size:25px;
+	 line-height:40px;
+	 display:inline;
+	}
+	
+#firstPage
+	{
+	 position:absolute;
+	 top:50px;
+	 left:0px;
+	 width:100%;
+	 height:650px;
+	 overflow:hidden;
+	}
+
+#firstPageImg
+	{
+	 position:absolute;
+	 top:0px;
+	 left:0px;
+	 opacity:0.8;
+	 width:100%;
+	 height:650px;
+	 
+	}
+	
+#firstPageImgImg
+	{
+	 width:100%;
+	 height:650px;
+	}	
+
+#firstPageText
+	{
+	 position:absolute;
+	 top:0px;
+	 left:0px;
+	 font-size:50px;
+	 width:100%;
+	 height:600px;
+	 z-index:1;
+	 text-align:center;
+	 color:white;
+	 padding-top:70px;
+	}
+	
+#myName
+	{
+	 font-size:70px;
+	 
+	}
+
+#firstPageLines
+	{
+	 font-size:25px;
+	}	
+
+#secondPage
+	{
+	 position:absolute;
+	 top:700px;
+	 left:0px;
+	 width:100%;
+	 height:650px;
+	 background-color:#11cdaa;
+	 overflow:hidden;
+	}
+
+#secondPageImg
+	{position:absolute;
+	 top:0px;
+	 left:0px;
+	 width:100%;
+	 height:650px;
+	 opacity:0.7;
+	}
+
+#secondPageText
+	{position:absolute;
+	 top:0px;
+	 left:0px;
+	 width:100%;
+	 height:600px;
+	 z-index:1;	
+	}
+
+#secondPageTextRight
+	{
+	 width:60%;
+	 float:right;
+	 height:600px;
+	 color:white;
+	 text-align:center;
+	 font-size:30px;
+	 
+	}
+	
+.line
+	{
+	 width:50%;
+	 margin-left:25%;
+	 margin-right:25%;
+	 height:1px;
+	 background-color:white;
+	}	
+	
+#aboutMe
+	{
+	 font-size:50px;
+	}	
+	
+#secondPageImgImg
+	{
+	 width:100%;
+	 height:650px;
+	}
+
+#thirdPage
+	{
+	 position:absolute;
+	 top:1350px;
+	 left:0px;
+	 width:100%;
+	 height:650px;
+	 overflow:hidden;
+	 background-color:#cedadb;
+	 
+	}
+
+#skills
+	{margin-top:30px;
+	 
+	 width:100%;
+	 height:150px;
+	 line-height:150px;
+	 color:#5f6768;
+	 font-size:60px;
+	 text-align:center;	
+	}
+
+#skillQuote
+	{
+	 font-size:35px;
+	 text-align:center;
+	 margin-left:10%;
+	 margin-right:10%;
+	 color:#5f6768;
+	}
+
+#skillQuoteBy
+	{text-align:center;
+	 font-size:30px;
+	 color:#3a4749;	
+	}
+
+#skillsContainer
+	{
+	 width:100%;	
+	}	
+
+#leftSkillsContainer
+	{
+	 margin-left:10%;
+	 margin-right:5%;
+	 margin-top:80px;
+	 width:40%;
+	 height:230px;
+	 display:inline;
+	 float:left;
+	}
+	
+#webDevelopment
+	{
+	 margin-top:20px;
+	 
+	 display:block;
+	 font-size:35px;
+	 color:#5f6768;
+	 
+	}
+	
+#aboutWeb
+	{
+	 color:#5f6768;	
+	 display:block;
+	 width:80%;
+	 margin-left:0%;
+	 margin-right:20%;
+	 margin-top:40px;
+	 font-size:25px;
+	}	
+	
+
+	
+#rightSkillsContainer
+	{
+	 
+	 margin-right:5%;
+	 margin-top:80px;	
+	 width:40%;
+	 height:230px;
+	 display:inline;
+	 float:right;
+	 
+	}
+
+#programming
+	{
+	 margin-top:20px;
+	 
+	 display:block;
+	 font-size:35px;
+	 color:#5f6768;	
+	}
+
+#aboutProgramming
+	{
+	 color:#5f6768;	
+	 display:block;
+	 width:80%;
+	 margin-left:0%;
+	 margin-right:20%;
+	 margin-top:40px;
+	 font-size:25px;	
+	}	
+	
+#fourthPage
+	{
+	 position:absolute;
+	 top:2000px;
+	 left:0px;
+	 width:100%;
+	 height:700px;
+	 overflow:hidden;
+	 background-color:#8fc0e6;
+	 
+	}
+	
+.image
+{
+	width:25%;
+	height:350px;
+	display:inline;
+	float:left;
+	background-color:blue;
+	
+}
+
+
+
+.meimages
+{
+	width:100%;
+	height:100%;
+}	
+
+
+
+
+
+
+
+
+#fifthPage
+	{
+	 position:absolute;
+	 top:2700px;
+	 left:0px;
+	 width:100%;
+	 height:600px;
+	 overflow:hidden;
+	 background-color:#18152c;
+	}
+#contactMe
+	{
+	 width:100%;
+	 height:150px;
+	 line-height:150px;
+	 color:white;
+	 font-size:60px;
+	 text-align:center;
+	}
+	
+	
+	
+#contactMeLeft
+	{
+	 margin-left:7%;
+	 width:40%;
+	 height:350px;
+	 margin-right:3%;
+	 float:left;
+	 display:inline;
+	 
+	 color:white;
+	 font-size:25px;
+	}
+
+#reachMe
+	{
+	 font-size:40px;
+	}
+
+#address
+	{
+	 margin-left:10%;
+	}	
+
+#contactMeRight
+	{
+	 margin-left:3%;
+	 width:40%;
+	 height:350px;
+	 margin-right:7%;
+	 float:right;
+	 display:inline;
+	 color:white;
+	}
+
+#credits
+	{
+	 width:100%;
+	 height:90px;
+	 
+	 position:absolute;
+	 top:510px;
+	}
+
+
+#socialSites
+	{width:40%;
+	 height:100%;
+	 margin-top:20px;
+	 margin-left:10%;
+	 float:left;
+	}
+	
+.socialSiteIcons
+	{
+	 height:50px;
+	 width:50px;
+	 margin-left:10px;
+	 margin-right:10px;
+	 
+	}
+
+#copyright
+	{
+	 margin-top:30px;
+	 width:50%;
+	 float:right;
+	 color:white;
+	 font-size:20px;
+	 
+	}	
