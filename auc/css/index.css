@@ -1,0 +1,149 @@
+div, body
+{
+	padding:0px;
+	margin:0px;
+}
+
+a
+{
+  text-decoration: none;
+  color: #bdb9b9;
+}
+
+#indexBg1
+{
+  width: 40%;
+  height: 100%;
+  z-index: -2;
+  position: absolute;
+  top:0px;
+  left: 0px;
+  filter: blur(8px);
+}
+
+
+
+#homePage
+{
+  width: 100%;
+  height: 580px;
+  //background-color: green;
+  display: block;
+  z-index: 0;
+
+
+}
+
+#indexImg1
+{
+  position: absolute;
+  top:130px;
+  left: 100px;
+  width: 37%;
+  height: 80%;
+  z-index: -1;
+}
+
+
+#indexRightContent
+{
+  width: 50%;
+  height: 90%;
+  position: absolute;
+  left: 50%;
+  top: 100;
+  //background-color: green;
+}
+
+
+#indexRContent
+{
+  width: 80%;
+  height: 90%;
+  margin-top: 58px;
+  float: left;
+  //background-color: pink;
+}
+
+
+#irc1
+{
+  width: 100%;
+  font-size: 80px;
+  display: block;
+}
+
+
+#irc2
+{
+  width: 100%;
+  display: block;
+  font-size: 70px;
+  color: #bdb9b9;
+}
+
+
+#irc3
+{
+  width: 100%;
+  display: block;
+  font-size: 70px;
+  color: #bdb9b9;
+}
+
+
+#irc4
+{
+  width: 100%;
+  display: block;
+  font-size: 30px;
+}
+
+#getInTouchBox
+{
+  width:100%;
+  height: 70px;
+  //background-color: black;
+}
+
+#getInTouch
+{
+  width: 48%;
+  height: 70px;
+  line-height: 70px;
+  font-size: 28px;
+  text-align: center;
+  color: white;
+  display: inline;
+  float: left;
+  background-color: black;
+}
+
+#whatsappUs
+{
+  width: 48%;
+  height: 70px;
+  display: inline;
+  float: right;
+  background-color: #bdb9b9;
+
+
+}
+
+#whatsappBox
+{
+  width: 50px;
+  height: 50px;
+  margin-top: 10px;
+  margin-left: 10px;
+  display: block;
+  float: left;
+
+}
+
+#whatsappNumber
+{
+  font-size: 26px;
+  text-align: center;
+  line-height: 70px;
+}

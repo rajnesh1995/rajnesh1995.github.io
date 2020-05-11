@@ -1,0 +1,161 @@
+#pricingPage
+{
+  width: 100%;
+  height: 800px;
+  //background-color: green;
+  display: block;
+  z-index: 0;
+}
+
+
+#pricingInfo
+{
+  width: 100%;
+  height: 300px;
+  line-height: 300px;
+  //background-color: white;
+  font-size: 90px;
+  text-align: center;
+  color: #747474;
+}
+
+
+#pricingBox
+{
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  //background-color: white;
+  height: 480px;
+  box-shadow: 0px 0px 2px 2px #bcbcbc;
+}
+
+
+
+
+
+
+.priceBoxTop
+{
+  width: 100%;
+  height: 70px;
+  //background-color: pink;
+  text-align: center;
+}
+
+.prodName
+{
+  width: 40%;
+  height: 70px;
+  font-size: 40px;
+  line-height: 70px;
+  display: inline;
+  float: left;
+  //text-align: left;
+  color: #bdb9b9;
+}
+
+.A5
+{
+  width: 20%;
+  height: 70px;
+  font-size: 30px;
+  line-height: 70px;
+  display: inline;
+  float: left;
+  //background-color: white;
+}
+
+.A4
+{
+  width: 20%;
+  height: 70px;
+  font-size: 30px;
+  line-height: 70px;
+  display: inline;
+  float: left;
+}
+
+
+.A3
+{
+  width: 20%;
+  height: 70px;
+  font-size: 30px;
+  line-height: 70px;
+  display: inline;
+  float: left;
+  //background-color: white;
+}
+
+
+.priceBoxFrame
+{
+  width: 100%;
+  height: 40px;
+  //background-color: pink;
+  text-align: center;
+}
+
+.prodDesc
+{
+  width: 40%;
+  height: 40px;
+  font-size: 20px;
+  line-height: 40px;
+  display: inline;
+  float: left;
+  //text-align: left;
+}
+
+.pA5
+{
+  width: 20%;
+  height: 40px;
+  font-size: 20px;
+  line-height: 40px;
+  display: inline;
+  float: left;
+  //background-color: white;
+  color: #bdb9b9;
+}
+
+.pA4
+{
+  width: 20%;
+  height: 40px;
+  font-size: 20px;
+  line-height: 40px;
+  display: inline;
+  float: left;
+  color: #bdb9b9;
+}
+
+
+.pA3
+{
+  width: 20%;
+  height: 40px;
+  font-size: 20px;
+  line-height: 40px;
+  display: inline;
+  float: left;
+  //background-color: white;
+  color: #bdb9b9;
+}
+
+.boxColor
+{
+  background-color: #bdb9b9;
+  //background-color: #ebeced;
+  color: white;
+}
+
+
+.priceBoxNoFrame
+{
+  width: 100%;
+  height: 40px;
+  //background-color: pink;
+  text-align: center;
+}

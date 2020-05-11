@@ -1,0 +1,82 @@
+#servicesPage
+{
+  width: 100%;
+  height: 1300px;
+  //background-color: pink;
+  display: block;
+  z-index: 0;
+
+}
+
+#ourServices
+{
+  width: 100%;
+  height: 300px;
+  //background-color: white;
+  line-height: 300px;
+  font-size: 90px;
+  text-align: center;
+  color: #747474;
+}
+
+
+#products
+{
+  width: 100%;
+  height: 1000px;
+  //background-color: green;
+
+}
+
+#productInner
+{
+  width: 70%;
+  margin:auto;
+  height: 1000px;
+  //background-color: white;
+}
+
+.productBox
+{
+  width: 50%;
+  height: 500px;
+  margin-left:;
+  //background-color: blue;
+  display: inline;
+  float: left;
+  border-radius: ;
+  overflow: ;
+}
+
+
+
+.productImage
+{
+  //width: 100%;
+  //height: 100%;
+  width: 95%;
+  height: 95%;
+  padding-right: 5%;
+  padding-bottom: 5%;
+  z-index: 1;
+  //background-color: green;
+
+}
+
+
+.productDesc
+{
+  position: relative;
+  top: -100px;
+  left: 50px;
+  width: 200px;
+  height: 50px;
+  text-align: center;
+  background-color: #a19292;
+  vertical-align: middle;
+  font-size: 28px;
+  color: white;
+  line-height: 50px;
+  z-index: 2;
+  border: 1px solid white;
+}
