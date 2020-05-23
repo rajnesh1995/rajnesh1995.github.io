@@ -1,7 +1,7 @@
 window.onload = function()
 {
   winWidth=window.innerWidth;
-
+  alert("Window size is: " +winWidth);
   if(winWidth < 700)
   {
 
