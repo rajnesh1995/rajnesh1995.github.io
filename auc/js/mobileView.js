@@ -75,6 +75,7 @@ window.onload = function()
     whatsappUs.style.width="80%";
     whatsappUs.style.marginLeft="10%";
     whatsappUs.style.marginRight="10%";
+    //whatsappUs.style.marginBottom="40px";
 
 
 
@@ -84,8 +85,8 @@ window.onload = function()
     // FOr Services Page
 
     var ourServices=document.getElementById("ourServices");
-    ourServices.style.fontSize="60px";
-
+    ourServices.style.fontSize="45px";
+    //ourServices.style.lineHeight="90px";
     var productBox = document.getElementsByClassName("productBox");
     document.getElementById("productInner").style.height="2000px";
     var productImage=document.getElementsByClassName("productImage");
