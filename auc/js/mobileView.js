@@ -8,7 +8,7 @@ window.onload = function()
     //For navBar
 
 
-    var logoBox=document.getElementById("logoBox");
+/*    var logoBox=document.getElementById("logoBox");
     var innerHeader=document.getElementById("innerHeader");
     var navBox=document.getElementById("navigationBox");
     innerHeader.style.height="130px"
@@ -18,37 +18,38 @@ window.onload = function()
     navBox.style.width="0%";
     navBox.style.height="0%";
     navBox.style.overflow="hidden";
-
+*/
     var navMenu=document.getElementsByClassName("navMenu");
     var i=0;
     for(;i<navMenu.length;i++)
     {
       navMenu[i].innerHTML="";
-      navMenu[i].style.width="0px";
-      navMenu[i].style.height="0px";
-      navMenu[i].style.marginLeft="0px";
-      navMenu[i].style.borderRadius="0px";
+      //navMenu[i].style.width="0px";
+      //navMenu[i].style.height="0px";
+      //navMenu[i].style.marginLeft="0px";
+      //navMenu[i].style.borderRadius="0px";
     };
-    document.getElementById("navMenu1").style.marginLeft="0%";
-    document.getElementById("navBox").style.paddingLeft="0%";
+    //document.getElementById("navMenu1").style.marginLeft="0%";
+    //document.getElementById("navBox").style.paddingLeft="0%";
 
 
 
 
 
     // For index page
-
+/*
     var indexBg1=document.getElementById("indexBg1");
     indexBg1.style.width="100%";
 
     document.getElementById("whatsappNumber").style.fontSize="18px";
+*/
     var x=winWidth-200;
     var indexImg1=document.getElementById("indexImg1");
     indexImg1.style.width=x+"px";
 
 
     // About anam
-    var homePage = document.getElementById('homePage');
+/*    var homePage = document.getElementById('homePage');
     homePage.style.paddingTop="500px";
 
 
@@ -78,13 +79,13 @@ window.onload = function()
     //whatsappUs.style.marginBottom="40px";
 
 
-
+*/
 
 
 
     // FOr Services Page
 
-    var ourServices=document.getElementById("ourServices");
+ /*   var ourServices=document.getElementById("ourServices");
     ourServices.style.fontSize="45px";
     //ourServices.style.lineHeight="90px";
     var productBox = document.getElementsByClassName("productBox");
@@ -101,11 +102,11 @@ window.onload = function()
 
 
     document.getElementById("galleryHeading").style.fontSize="60px";
-
+*/
     // For Pricing Page
 
 
-
+/*
     document.getElementById("pricingInfo").style.fontSize="60px";
 
     var pricingBox=document.getElementById("pricingBox");
@@ -117,12 +118,12 @@ window.onload = function()
       prodName[k].style.fontSize="20px";
     };
 
-
+*/
 
 
     // For contacts Page
 
-
+/*
     document.getElementById("contactsHeading").style.fontSize="60px";
 
     var contactsLeft=document.getElementById("contactsLeft");
@@ -160,18 +161,18 @@ window.onload = function()
       contactsSocialDesc[m].style.marginLeft="3px";
       contactsSocialImage[m].style.marginLeft="3px";
     };
-
+*/
 
     // For footer note
 
-    var footerLeft=document.getElementById("footerLeft");
+  /*  var footerLeft=document.getElementById("footerLeft");
     footerLeft.style.lineHeight="20px";
 
     var footerRight=document.getElementById("footerRight");
     footerRight.style.lineHeight="20px";
 
 
-
+*/
 
 
 
