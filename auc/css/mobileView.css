@@ -1,0 +1,215 @@
+@media only screen and (max-width : 700px)
+{
+
+#logoBox
+{
+  width: 70%;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+#innerHeader
+{
+  height: 130px;
+
+}
+
+.navMenu
+{
+  width:0px;
+  height: 0px;
+  margin-left: 0px;
+  border-radius: 0px;
+}
+
+#navigationBox
+{
+  width:0%;
+  height: 0%;
+  overflow: hidden;
+}
+
+#navMenu1
+{
+  margin-left: 0%;
+}
+
+#navBox
+{
+  padding-left: 0%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#indexBg1
+{
+  width: 100%;
+}
+
+
+#whatsappNumber
+{
+  font-size: 18px;
+}
+
+#homePage
+{
+  padding-top: 500px;
+}
+
+#indexRightContent
+{
+  left: 0px;
+  width: 100%;
+  text-align: center;
+  margin-left: 10%;
+}
+
+#getInTouch
+{
+  display: block;
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+
+#whatsappUs
+{
+  display: block;
+  float: left;
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+
+#ourServices
+{
+  font-size: 45px;
+
+}
+
+#productInner
+{
+  
+  height: 2000px;
+}
+
+.productImage
+{
+  padding-right: 0%;
+}
+
+.productBox
+{
+  display: block;
+  width: 100%;
+}
+
+
+
+#galleryHeading
+{
+  font-size: 60px;
+}
+
+
+
+#pricingInfo
+{
+  font-size: : 60px;
+}
+
+#pricingBox
+{
+  width: 90%;
+}
+
+
+.prodName
+{
+  font-size: 20px;
+}
+
+#contactsHeading
+{
+  font-size: 60px;
+}
+
+#contactsLeft
+{
+  width: 70%;
+  display: block;
+  margin-left: 15%;
+
+}
+
+#contactsPage
+{
+  height: 750px;
+}
+
+.contactsSocial
+{
+  margin-left: 10%;
+}
+
+#contactsRight
+{
+  width: 100%;
+  display: block;
+  margin-right: 0%;
+}
+
+#contactsBoxLeft
+{
+  margin-left: 2%;
+  width: 42%;
+}
+
+#contactsBoxRight
+{
+  width: 42%;
+}
+
+.contactsSocialImage
+{
+  margin-left: 3px;
+}
+
+
+.contactsSocialDesc
+{
+  margin-left: 3px;
+}
+
+
+#footerLeft
+{
+  line-height: 20px;
+}
+
+#footerRight
+{
+  line-height: 20px;
+}
+
+
+
+}
